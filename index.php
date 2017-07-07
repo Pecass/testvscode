@@ -1,6 +1,6 @@
 <?php
 
-echo "test vscode";
+echo "test 2 vscode";
 
 ?>
 
